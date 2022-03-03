@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://l2w0a6sex3ag"]
+
+[ext_resource type="PackedScene" uid="uid://ck0a11iyq7yir" path="res://Axe Handle003.tscn" id="1_2g0a0"]
+
+[node name="Axes" type="Node3D"]
+
+[node name="Axe Handle003" parent="." instance=ExtResource( "1_2g0a0" )]
