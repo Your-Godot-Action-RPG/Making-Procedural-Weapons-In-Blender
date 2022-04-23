@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://dvfwtpitq3k2x"
-path="res://.godot/imported/Axe Export Test.glb-2aac80e9c4503c0be9fde28c2a100339.scn"
+uid="uid://bswgw74x8e1s7"
+path="res://.godot/imported/Axe Handle.002.glb-02c99fee79306fe49916e360bbba764c.scn"
 
 [deps]
 
-source_file="res://Axe Export Test.glb"
-dest_files=["res://.godot/imported/Axe Export Test.glb-2aac80e9c4503c0be9fde28c2a100339.scn"]
+source_file="res://Axe Handle.002.glb"
+dest_files=["res://.godot/imported/Axe Handle.002.glb-02c99fee79306fe49916e360bbba764c.scn"]
 
 [params]
 

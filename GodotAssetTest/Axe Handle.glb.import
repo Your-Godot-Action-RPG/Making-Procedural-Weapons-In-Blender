@@ -1,0 +1,28 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://bdgdesgq21va6"
+path="res://.godot/imported/Axe Handle.glb-b3c08a082e20e474084b9e1b3940a1a1.scn"
+
+[deps]
+
+source_file="res://Axe Handle.glb"
+dest_files=["res://.godot/imported/Axe Handle.glb-b3c08a082e20e474084b9e1b3940a1a1.scn"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.1
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+import_script/path=""
+_subresources={}
